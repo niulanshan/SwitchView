@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MySwitchView">
+        <attr name="sw_circle_width" format="dimension"/>
+        <attr name="sw_circle_margin" format="dimension"/>
+        <attr name="animation_duration" format="integer"/>
+        <attr name="on_color" format="color"/>
+        <attr name="off_color" format="color"/>
+        <attr name="bg_color" format="color"/>
+    </declare-styleable>
+</resources>
